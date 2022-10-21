@@ -30,7 +30,7 @@ To receive all points, you must:
   
 1. Compile your smart contract without errors. (10 points)
     
-    Unable to find issues in the code, see photo (#0 Screenshot 2022-10-15 125412.png; #1.5 Screenshot 2022-10-15 125512.png)
+![alt text][github.com/[emorytk/Fin]
   
 2. Deploy your smart contract in the JavaScript VM. (5 pints)
     
